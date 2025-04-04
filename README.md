@@ -37,41 +37,14 @@ AI Lab Assistant is a web-based solution designed to modernize and streamline la
 - Spring Boot (Java)  
 - MySQL (Database)
 
-## 🏁 How to Run
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/ai-lab-assistant.git
-   ```
-
-2. **Backend Setup (Spring Boot):**
-   - Import the backend folder in an IDE like IntelliJ or Eclipse.
-   - Configure your database in `application.properties`.
-   - Run the application.
-
-3. **Frontend Setup (React):**
-   ```bash
-   cd frontend
-   npm install
-   npm start
-   ```
-
 ## 📌 Project Objective
 
 To build an intelligent and scalable lab assistant platform that enhances the quality of lab-based education through digital management, automation, and interactive tools.
 
----
-
 ## 📎 License & Copyright
 
-```
-© 2025 [Your Name]. All rights reserved.
+© 2025 Manish Kumar. All rights reserved.
 
-This project is the intellectual property of [Your Name]. Unauthorized use, copying, modification, distribution, or any form of commercial or non-commercial reuse is strictly prohibited without written permission.
+This project is the intellectual property of Manish. Unauthorized use, copying, modification, distribution, or any form of commercial or non-commercial reuse is strictly prohibited without written permission.
 
 This repository is protected under copyright law. Any infringement will lead to legal consequences.
-```
-
----
-
-> ✨ Built to transform lab experiment delivery with smart, structured, and student-friendly tools.
