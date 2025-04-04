@@ -50,4 +50,4 @@ This project is the intellectual property of Manish. Unauthorized use, copying, 
 This repository is protected under copyright law. Any infringement will lead to legal consequences.
 
 ## Contact with me
--LinkedIn: https://www.linkedin.com/in/tech2manish/
+- LinkedIn: https://www.linkedin.com/in/tech2manish/
