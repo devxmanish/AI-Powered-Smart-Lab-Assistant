@@ -1,0 +1,8 @@
+<div style="font-family: Arial, sans-serif;" xmlns:th="http://www.w3.org/1999/xhtml">
+    <div th:each="experiment, iterStat : ${experiments}">
+        <h2 style="text-align: center; text-decoration: underline; margin-bottom: 5px; ">Experiment No: [[${experiment.experimentNo}]]</h2>
+        <h2 style="text-align: center; margin-top:5px; font-size: 20px; margin-bottom:30px;">[[${experiment.title}]]</h2>
+        <div th:utext="${experiment.content}">[[${experiment.content}]]</div>  <!-- Supports HTML content -->
+        <div style="page-break-before: always;"></div>
+    </div>
+</div>
