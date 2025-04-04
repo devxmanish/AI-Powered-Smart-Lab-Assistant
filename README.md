@@ -48,3 +48,6 @@ To build an intelligent and scalable lab assistant platform that enhances the qu
 This project is the intellectual property of Manish. Unauthorized use, copying, modification, distribution, or any form of commercial or non-commercial reuse is strictly prohibited without written permission.
 
 This repository is protected under copyright law. Any infringement will lead to legal consequences.
+
+## Contact with me
+-LinkedIn: https://www.linkedin.com/in/tech2manish/
